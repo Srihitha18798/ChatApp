@@ -10,29 +10,29 @@
         android:id="@+id/app_logo"
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:src="@drawable/logo"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="78dp"></ImageView>
+        android:layout_marginTop="78dp"
+        android:src="@drawable/logo" />
 
     <EditText
         android:id="@+id/edt_email"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/app_logo"
-        android:layout_marginTop="10dp"
-        android:hint="Email"
         android:layout_marginLeft="20dp"
-        android:layout_marginRight="20dp"></EditText>
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        android:hint="@string/email" />
 
     <EditText
         android:id="@+id/edt_password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/edt_email"
-        android:layout_marginTop="10dp"
-        android:hint="Password"
         android:layout_marginLeft="20dp"
-        android:layout_marginRight="20dp"></EditText>
-    
-    
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        android:hint="@string/password" />
+
+
 </RelativeLayout>
