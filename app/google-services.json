@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779430280655",
+    "project_id": "chatapp-c04c5",
+    "storage_bucket": "chatapp-c04c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779430280655:android:725120488d49b5abcde6ba",
+        "android_client_info": {
+          "package_name": "com.sritadip.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779430280655-j76dlpcvfce11knd4pupliforvjgrmf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtBJYSUX2Esxuwc1XtRkw3S60vT7LvhOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779430280655-j76dlpcvfce11knd4pupliforvjgrmf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
